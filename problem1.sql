@@ -1,0 +1,1 @@
+alter table site_user table add column lastname;
